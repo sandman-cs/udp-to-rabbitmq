@@ -1,0 +1,13 @@
+{
+    "Broker":"172.24.38.163",
+    "BrokerUser":"intouch",
+    "BrokerPwd":"intouch",
+    "BrokerVhost":"/",
+    "BrokerExchange":"logs",
+    "LogIP":"127.0.0.1",
+    "LogPort":"10001",
+    "LogSrc":"127.0.0.1",
+    "LocalEcho":true,
+    "ServerName":"data_export",
+    "PubPool": 2
+}
